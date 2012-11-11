@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SoundTrigger.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SoundTrigger.cs">
     <Files>
-      <File FileName="Assets/SoundTrigger.js" Line="3" Column="38" />
+      <File FileName="Assets/SoundTrigger.cs" Line="11" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
