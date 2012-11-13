@@ -14,7 +14,6 @@ public class MovePropTrigger : MonoBehaviour {
         if (isColliderEnabled) {
         	isColliderEnabled = false;
 			move = true;
-			audio.Play();
     	}
     }
 
