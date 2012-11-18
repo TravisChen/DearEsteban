@@ -37,7 +37,7 @@ public class JackInTheBoxTrigger : MonoBehaviour {
 		{
 			if( renderProp.renderer.isVisible )
 			{
-				prop.transform.position = Vector3.Lerp(renderProp.transform.position, end.position, 0.025f);
+				prop.transform.position = Vector3.Lerp(renderProp.transform.position, end.position, 0.005f);
 			}
 			else
 			{
